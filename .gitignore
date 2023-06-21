@@ -1,0 +1,4 @@
+.vscode/
+*dump.rdb
+.env
+*.log
