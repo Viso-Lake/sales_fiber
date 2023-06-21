@@ -1,4 +1,4 @@
-module github.com/test_microservices
+module github.com/sales_fiber
 
 go 1.20
 
