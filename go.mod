@@ -1,4 +1,4 @@
-module github.com/sales_fiber
+module sales_fiber
 
 go 1.20
 
