@@ -17,5 +17,6 @@ func main() {
 	// app.Use(app)
 	// Routing
 	routes.Setup(app)
-	app.Listen(":30001")
+	app.Listen(":3000")
+
 }

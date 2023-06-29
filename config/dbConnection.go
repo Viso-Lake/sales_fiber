@@ -35,7 +35,7 @@ func Connect() {
 	DB = db
 	fmt.Printf("DB connection successfully")
 
-	AutoMigrate(db)
+	// AutoMigrate(db)
 }
 
 func AutoMigrate(conn *gorm.DB) {
